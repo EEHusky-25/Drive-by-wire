@@ -1,0 +1,9193 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "66c70677-4568-4e67-b7d8-669a7f8bf894")
+	(paper "A2")
+	(lib_symbols
+		(symbol "Syms:B82432T1274K000"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 6.985 5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "B82432T1274K000"
+				(at 6.985 -2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "IND_EPCOS_B82432T_EPC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "B82432T1274K000"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "B82432T1274K000"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "IND_EPCOS_B82432T_EPC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "B82432T1274K000_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 1.27)
+					(mid 3.81 2.5344)
+					(end 5.08 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 5.08 1.27)
+					(mid 6.35 2.5344)
+					(end 7.62 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 7.62 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 7.62 1.27)
+					(mid 8.89 2.5344)
+					(end 10.16 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 10.16 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.16 1.27)
+					(mid 11.43 2.5344)
+					(end 12.7 1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 0) (xy 12.7 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "B82432T1274K000_1_2"
+				(arc
+					(start -1.27 10.16)
+					(mid -2.5344 11.43)
+					(end -1.27 12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.27 7.62)
+					(mid -2.5344 8.89)
+					(end -1.27 10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.27 5.08)
+					(mid -2.5344 6.35)
+					(end -1.27 7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.27 2.54)
+					(mid -2.5344 3.81)
+					(end -1.27 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 12.7) (xy -1.27 12.7)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 10.16) (xy -1.27 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 7.62) (xy -1.27 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 5.08) (xy -1.27 5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 2.54)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 15.24 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:C0805C103K1RACAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "C0805C103K1RACAUTO"
+				(at 3.81 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CAPC220145_88N_KEM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "C0805C103K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C0805C103K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CAPC220145_88N_KEM CAPC220145_88N_KEM-M CAPC220145_88N_KEM-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C103K1RACAUTO_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C0805C103K1RACAUTO_1_2"
+				(polyline
+					(pts
+						(xy -1.905 -3.4798) (xy 1.905 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -4.1148) (xy 1.905 -4.1148)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.1148) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:C0805C104K1RECAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "C0805C104K1RECAUTO"
+				(at 3.81 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CAPC220145_110N_KEM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "C0805C104K1RECAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C0805C104K1RECAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CAPC220145_110N_KEM CAPC220145_110N_KEM-M CAPC220145_110N_KEM-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C0805C104K1RECAUTO_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C0805C104K1RECAUTO_1_2"
+				(polyline
+					(pts
+						(xy -1.905 -3.4798) (xy 1.905 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -4.1148) (xy 1.905 -4.1148)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.1148) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:C1206C474K1RECAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "C1206C474K1RECAUTO"
+				(at 3.81 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CAPC340180_180N_KEM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "C1206C474K1RECAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C1206C474K1RECAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CAPC340180_180N_KEM CAPC340180_180N_KEM-M CAPC340180_180N_KEM-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C1206C474K1RECAUTO_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C1206C474K1RECAUTO_1_2"
+				(polyline
+					(pts
+						(xy -1.905 -3.4798) (xy 1.905 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -4.1148) (xy 1.905 -4.1148)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.1148) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:C1206X105K1RACAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "C1206X105K1RACAUTO"
+				(at 3.81 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CAPC370195_180N_KEM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "C1206X105K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C1206X105K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CAPC370195_180N_KEM CAPC370195_180N_KEM-M CAPC370195_180N_KEM-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C1206X105K1RACAUTO_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C1206X105K1RACAUTO_1_2"
+				(polyline
+					(pts
+						(xy -1.905 -3.4798) (xy 1.905 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -4.1148) (xy 1.905 -4.1148)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.1148) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:C1210X474K1RACAUTO"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "C1210X474K1RACAUTO"
+				(at 3.81 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "CAPC370290_115N_KEM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "C1210X474K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C1210X474K1RACAUTO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CAPC370290_115N_KEM CAPC370290_115N_KEM-M CAPC370290_115N_KEM-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C1210X474K1RACAUTO_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4798 -1.905) (xy 3.4798 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.1148 -1.905) (xy 4.1148 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C1210X474K1RACAUTO_1_2"
+				(polyline
+					(pts
+						(xy -1.905 -3.4798) (xy 1.905 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -4.1148) (xy 1.905 -4.1148)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.1148) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:CRCW08053K01FKEA"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "CRCW08053K01FKEA"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RES_CRCW_0805"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "CRCW08053K01FKEA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "CRCW08053K01FKEA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RES_CRCW_0805 RES_CRCW_0805-M RES_CRCW_0805-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CRCW08053K01FKEA_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "CRCW08053K01FKEA_1_2"
+				(polyline
+					(pts
+						(xy -1.27 8.255) (xy 1.27 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.715) (xy 1.27 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.175) (xy 1.27 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 9.525) (xy 0 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.985) (xy -1.27 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 4.445) (xy -1.27 5.715)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:DRV8353RHRGZR"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "DRV8353RHRGZR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RGZ0048L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "DRV8353RHRGZR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "DRV8353RHRGZR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RGZ0048L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DRV8353RHRGZR_0_1"
+				(polyline
+					(pts
+						(xy -20.32 81.28) (xy -20.32 -81.28)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -20.32 -81.28) (xy 20.32 -81.28)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 20.32 81.28) (xy -20.32 81.28)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 20.32 -81.28) (xy 20.32 81.28)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at -25.4 76.2 0)
+					(length 5.08)
+					(name "VM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 68.58 0)
+					(length 5.08)
+					(name "VCP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 63.5 0)
+					(length 5.08)
+					(name "CPH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 55.88 0)
+					(length 5.08)
+					(name "CPL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 48.26 0)
+					(length 5.08)
+					(name "DVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 40.64 0)
+					(length 5.08)
+					(name "ENABLE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 35.56 0)
+					(length 5.08)
+					(name "INHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 33.02 0)
+					(length 5.08)
+					(name "INLA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 27.94 0)
+					(length 5.08)
+					(name "INHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 25.4 0)
+					(length 5.08)
+					(name "INLB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 20.32 0)
+					(length 5.08)
+					(name "INHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 17.78 0)
+					(length 5.08)
+					(name "INLC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -25.4 12.7 0)
+					(length 5.08)
+					(name "MODE_SDO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 7.62 0)
+					(length 5.08)
+					(name "IDRIVE_SDI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 2.54 0)
+					(length 5.08)
+					(name "VDS_SCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -25.4 -2.54 0)
+					(length 5.08)
+					(name "NC_SCS_N"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at -25.4 -12.7 0)
+					(length 5.08)
+					(name "FAULT_N"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 -17.78 0)
+					(length 5.08)
+					(name "VREF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -22.86 0)
+					(length 5.08)
+					(name "SOC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -27.94 0)
+					(length 5.08)
+					(name "SOB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -25.4 -33.02 0)
+					(length 5.08)
+					(name "SOA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 -43.18 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "43"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 -50.8 0)
+					(length 5.08)
+					(name "VGLS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -25.4 -58.42 0)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 76.2 180)
+					(length 5.08)
+					(name "VDRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 71.12 180)
+					(length 5.08)
+					(name "GHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 66.04 180)
+					(length 5.08)
+					(name "SHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 60.96 180)
+					(length 5.08)
+					(name "GLA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 53.34 180)
+					(length 5.08)
+					(name "GHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 48.26 180)
+					(length 5.08)
+					(name "SHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 43.18 180)
+					(length 5.08)
+					(name "GLB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 35.56 180)
+					(length 5.08)
+					(name "GHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 30.48 180)
+					(length 5.08)
+					(name "SHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 25.4 25.4 180)
+					(length 5.08)
+					(name "GLC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 17.78 180)
+					(length 5.08)
+					(name "SPC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 7.62 180)
+					(length 5.08)
+					(name "SNC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 2.54 180)
+					(length 5.08)
+					(name "SPB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "SNB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -12.7 180)
+					(length 5.08)
+					(name "SPA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -22.86 180)
+					(length 5.08)
+					(name "SNA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -30.48 180)
+					(length 5.08)
+					(name "BST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -38.1 180)
+					(length 5.08)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -45.72 180)
+					(length 5.08)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -50.8 180)
+					(length 5.08)
+					(name "RCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 25.4 -55.88 180)
+					(length 5.08)
+					(name "RT_SD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -63.5 180)
+					(length 5.08)
+					(name "PGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -68.58 180)
+					(length 5.08)
+					(name "DGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -73.66 180)
+					(length 5.08)
+					(name "AGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 25.4 -78.74 180)
+					(length 5.08)
+					(name "PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:ERA-6AEB102V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "ERA-6AEB102V"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RC0805N_PAN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "ERA-6AEB102V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "ERA-6AEB102V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RC0805N_PAN RC0805N_PAN-M RC0805N_PAN-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ERA-6AEB102V_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "ERA-6AEB102V_1_2"
+				(polyline
+					(pts
+						(xy -1.27 8.255) (xy 1.27 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.715) (xy 1.27 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.175) (xy 1.27 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 9.525) (xy 0 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.985) (xy -1.27 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 4.445) (xy -1.27 5.715)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:ERJ-6ENF3243V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "ERJ-6ENF3243V"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RC0805N_PAN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "ERJ-6ENF3243V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "ERJ-6ENF3243V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RC0805N_PAN RC0805N_PAN-M RC0805N_PAN-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ERJ-6ENF3243V_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "ERJ-6ENF3243V_1_2"
+				(polyline
+					(pts
+						(xy -1.27 8.255) (xy 1.27 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.715) (xy 1.27 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.175) (xy 1.27 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 9.525) (xy 0 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.985) (xy -1.27 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 4.445) (xy -1.27 5.715)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:KRM55WR72A226MH01L"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 3.8109 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "KRM55WR72A226MH01L"
+				(at 0 -5.0885 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "KRM55WR72A226MH01L:CAPC6153X670N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "KRM55WR72A226MH01L_0_0"
+				(rectangle
+					(start 0 -1.9069)
+					(end 0.635 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 1.9069 -1.9069)
+					(end 2.54 1.905)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:RMCF1206FT3R00"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "RMCF1206FT3R00"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RES_RMCF1206_STP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "RMCF1206FT3R00"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RMCF1206FT3R00"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RES_RMCF1206_STP RES_RMCF1206_STP-M RES_RMCF1206_STP-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RMCF1206FT3R00_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:RMCF1206JT1K00"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "RMCF1206JT1K00"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "STA_RMCF1206_STP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "RMCF1206JT1K00"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RMCF1206JT1K00"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "STA_RMCF1206_STP STA_RMCF1206_STP-M STA_RMCF1206_STP-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RMCF1206JT1K00_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "RMCF1206JT1K00_1_2"
+				(polyline
+					(pts
+						(xy -1.27 8.255) (xy 1.27 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.715) (xy 1.27 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.175) (xy 1.27 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 9.525) (xy 0 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.985) (xy -1.27 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 4.445) (xy -1.27 5.715)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:RMCF2512FT332K"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "RMCF2512FT332K"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "RES_RMCF2512_STP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "RMCF2512FT332K"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RMCF2512FT332K"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "RES_RMCF2512_STP RES_RMCF2512_STP-M RES_RMCF2512_STP-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RMCF2512FT332K_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:RNCF1206TKY10K0"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.715 3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "RNCF1206TKY10K0"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "STA_RNCF1206_STP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "RNCF1206TKY10K0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "RNCF1206TKY10K0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "STA_RNCF1206_STP STA_RNCF1206_STP-M STA_RNCF1206_STP-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RNCF1206TKY10K0_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "RNCF1206TKY10K0_1_2"
+				(polyline
+					(pts
+						(xy -1.27 8.255) (xy 1.27 9.525)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 5.715) (xy 1.27 6.985)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.175) (xy 1.27 4.445)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 3.175)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 9.525) (xy 0 10.16)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.985) (xy -1.27 8.255)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 4.445) (xy -1.27 5.715)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Syms:UPS115UE3_TR7"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "UPS115UE3/TR7"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "POWERMITE1_DO-216AA_MIS_MCH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "UPS115UE3/TR7"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "UPS115UE3/TR7"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "POWERMITE1_DO-216AA_MIS_MCH POWERMITE1_DO-216AA_MIS_MCH-M POWERMITE1_DO-216AA_MIS_MCH-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "UPS115UE3_TR7_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "UPS115UE3_TR7_1_2"
+				(polyline
+					(pts
+						(xy -1.905 3.81) (xy 1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy -1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 0 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.175) (xy 0 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 6.35) (xy -1.905 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 3.81) (xy 0 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 10.16 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:VCC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Autonomous ATV Gate Driver\n"
+		(exclude_from_sim no)
+		(at 504.444 400.304 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "796d8299-0c4e-4c5b-9cb8-029b1840d649")
+	)
+	(text "May 13 2025\n"
+		(exclude_from_sim no)
+		(at 519.43 403.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a51ec5db-9950-40ce-8e78-dcf514d292e3")
+	)
+	(text "3\n"
+		(exclude_from_sim no)
+		(at 566.42 403.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ca4c7035-b15a-4ec0-8932-f6c2a190311f")
+	)
+	(junction
+		(at 215.9 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08fbbd8a-feb5-4e8a-8350-3284fa31b8ca")
+	)
+	(junction
+		(at 138.43 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c446db8-ad93-4166-a1eb-a542856ff005")
+	)
+	(junction
+		(at 138.43 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29901fe0-b991-48cb-bebe-90eb7dc39b32")
+	)
+	(junction
+		(at 154.94 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "394a323b-6baa-4f6e-996c-5d30f3ff6b56")
+	)
+	(junction
+		(at 69.85 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "398b7bce-3e77-48da-9666-bcdf273bfa8f")
+	)
+	(junction
+		(at 63.5 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42977294-f233-4717-9274-1fa7d5955625")
+	)
+	(junction
+		(at 185.42 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "459aac01-4f95-4ae8-a04e-3bb0472375de")
+	)
+	(junction
+		(at 147.32 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47c79a82-ca1b-4194-b189-fc82c500d571")
+	)
+	(junction
+		(at 138.43 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a778277-6ed7-4fd1-a1b9-1b8c5a960c87")
+	)
+	(junction
+		(at 67.31 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f089572-cc06-4166-b259-a682072d19fb")
+	)
+	(junction
+		(at 185.42 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "614ab8b8-4b1a-44d6-ac6c-72449e9ee4fe")
+	)
+	(junction
+		(at 64.77 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75a412fa-22ca-46c9-b14c-f23be17e04c5")
+	)
+	(junction
+		(at 67.31 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6aa241f-b5b5-4f62-89bc-dac09f6bc821")
+	)
+	(junction
+		(at 80.01 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0b9e7d4-03a9-4698-9f5e-c4904883d05c")
+	)
+	(junction
+		(at 43.18 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5ebbfd4-12d7-46e9-a04b-799ee2a16be3")
+	)
+	(wire
+		(pts
+			(xy 69.85 130.81) (xy 69.85 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04349042-a4f1-4877-a486-27a164e23d4c")
+	)
+	(wire
+		(pts
+			(xy 135.89 142.24) (xy 138.43 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0532bbbe-9fd6-4052-887b-fb3d96755757")
+	)
+	(wire
+		(pts
+			(xy 215.9 142.24) (xy 222.25 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09f30069-f07a-446d-b3eb-99ad885739b6")
+	)
+	(wire
+		(pts
+			(xy 85.09 170.18) (xy 80.01 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0beeb015-13ee-4016-a466-79eb14d1bdb3")
+	)
+	(wire
+		(pts
+			(xy 148.59 189.23) (xy 148.59 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cd75371-0d54-41d8-add0-6e765f5887e1")
+	)
+	(wire
+		(pts
+			(xy 185.42 182.88) (xy 185.42 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12fee532-d225-415a-8a76-2ef345ad8c8c")
+	)
+	(wire
+		(pts
+			(xy 135.89 162.56) (xy 161.29 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1603b685-074f-4526-b536-9717b8af2c81")
+	)
+	(wire
+		(pts
+			(xy 80.01 63.5) (xy 85.09 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "186e06d2-ac5a-4e8f-9eaa-60d88fe31e8c")
+	)
+	(wire
+		(pts
+			(xy 147.32 142.24) (xy 154.94 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ca75eea-3084-4c66-bd96-242256bb927f")
+	)
+	(wire
+		(pts
+			(xy 185.42 161.29) (xy 185.42 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28131b3e-9ac0-4a3d-9f48-2a7996eba58e")
+	)
+	(wire
+		(pts
+			(xy 135.89 180.34) (xy 138.43 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a015a63-5f76-47ae-a22a-381a793c44ab")
+	)
+	(wire
+		(pts
+			(xy 138.43 158.75) (xy 185.42 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bffa288-909d-4535-891e-c0e404a380a2")
+	)
+	(wire
+		(pts
+			(xy 63.5 179.07) (xy 80.01 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dc59ac1-8672-4e87-8e63-7acace45dadf")
+	)
+	(wire
+		(pts
+			(xy 179.07 142.24) (xy 185.42 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "367441a3-05a6-443c-8941-b3f91a99f0fb")
+	)
+	(wire
+		(pts
+			(xy 154.94 142.24) (xy 163.83 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "449edeea-987c-4412-9ea7-e70d24ed40ed")
+	)
+	(wire
+		(pts
+			(xy 154.94 154.94) (xy 154.94 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "490abcfc-4ef8-417e-97f5-f886d1dee0d4")
+	)
+	(wire
+		(pts
+			(xy 64.77 99.06) (xy 85.09 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4da62973-9a8d-4924-bb70-3677de313363")
+	)
+	(wire
+		(pts
+			(xy 63.5 162.56) (xy 85.09 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b82a952-34c4-4efe-b16f-e08975064982")
+	)
+	(wire
+		(pts
+			(xy 85.09 154.94) (xy 45.72 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ad6c877-46c2-4aae-8f76-99ffb1ed4031")
+	)
+	(wire
+		(pts
+			(xy 45.72 154.94) (xy 45.72 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7214b43c-7d55-4834-b6eb-07a2f3c6383e")
+	)
+	(wire
+		(pts
+			(xy 137.16 160.02) (xy 138.43 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "792b96d9-1380-412b-8d65-070872f4f1f8")
+	)
+	(wire
+		(pts
+			(xy 62.23 124.46) (xy 67.31 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ac8cbdc-9ba2-4c86-b5a3-11cf87904922")
+	)
+	(wire
+		(pts
+			(xy 148.59 167.64) (xy 148.59 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c93023c-b9ba-47bb-a73a-d1a7364271ff")
+	)
+	(wire
+		(pts
+			(xy 78.74 48.26) (xy 85.09 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81847e70-43f1-44f6-99fd-44116ef37c28")
+	)
+	(wire
+		(pts
+			(xy 45.72 168.91) (xy 45.72 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81fd77b9-b2a1-43b6-a0d1-6da06839a7d4")
+	)
+	(wire
+		(pts
+			(xy 135.89 167.64) (xy 148.59 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82f18dad-d837-46fc-8067-5ea032f03e46")
+	)
+	(wire
+		(pts
+			(xy 185.42 142.24) (xy 215.9 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dde1c08-106f-4d77-a707-c77a7715f711")
+	)
+	(wire
+		(pts
+			(xy 138.43 180.34) (xy 138.43 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ea61f6a-36b2-45d7-a06e-2298878f48a3")
+	)
+	(wire
+		(pts
+			(xy 138.43 190.5) (xy 135.89 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "965d7303-0e6c-4c19-bd4b-c7f37c96f0a0")
+	)
+	(wire
+		(pts
+			(xy 135.89 175.26) (xy 138.43 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97097627-0bb7-4513-8d90-c705a8df5cbe")
+	)
+	(wire
+		(pts
+			(xy 138.43 160.02) (xy 138.43 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97154bfb-66bf-4e1f-93e1-94e55da1ca2b")
+	)
+	(wire
+		(pts
+			(xy 215.9 157.48) (xy 215.9 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9abdab94-55a0-4730-a640-574aefeb4810")
+	)
+	(wire
+		(pts
+			(xy 185.42 142.24) (xy 185.42 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2133a9d-ca9c-4a63-b444-fbdf4ede0307")
+	)
+	(wire
+		(pts
+			(xy 67.31 43.18) (xy 85.09 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a241f0f1-8f35-48c9-ae10-7c6ba4ec4d86")
+	)
+	(wire
+		(pts
+			(xy 45.72 179.07) (xy 63.5 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ccc5cf-88e5-46e3-a874-b5de93d59321")
+	)
+	(wire
+		(pts
+			(xy 147.32 142.24) (xy 147.32 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa51b418-796d-4e49-a497-6f9e141b9466")
+	)
+	(wire
+		(pts
+			(xy 135.89 130.81) (xy 135.89 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3d4a436-32d8-4dab-8e46-f886bbeb1122")
+	)
+	(wire
+		(pts
+			(xy 85.09 129.54) (xy 69.85 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b616580c-48b9-465a-a8a6-924a766a938c")
+	)
+	(wire
+		(pts
+			(xy 161.29 162.56) (xy 161.29 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b858e1cf-bb52-4f9a-8b3a-ac445a0a78a5")
+	)
+	(wire
+		(pts
+			(xy 135.89 185.42) (xy 138.43 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b0c01d-74d9-4c69-9d96-4cd2dc1a19c9")
+	)
+	(wire
+		(pts
+			(xy 80.01 171.45) (xy 80.01 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc03f6eb-bdbc-4f82-bf53-59bb13bccceb")
+	)
+	(wire
+		(pts
+			(xy 185.42 157.48) (xy 185.42 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bce4c86d-b50a-406d-b30e-9c6a2a8631cc")
+	)
+	(wire
+		(pts
+			(xy 146.05 142.24) (xy 147.32 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd168a70-801f-411d-8880-8a143acfc31f")
+	)
+	(wire
+		(pts
+			(xy 67.31 35.56) (xy 85.09 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdb24d36-0c72-4658-bbd8-0c7b8afa2b6f")
+	)
+	(wire
+		(pts
+			(xy 137.16 157.48) (xy 137.16 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf606899-bda9-47b3-b095-6a4c4b53f0a2")
+	)
+	(wire
+		(pts
+			(xy 135.89 157.48) (xy 137.16 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c03e1aa8-bed1-4e89-8015-d641bee08194")
+	)
+	(wire
+		(pts
+			(xy 215.9 142.24) (xy 215.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27df708-0bc5-492b-9c00-780d375bdebb")
+	)
+	(wire
+		(pts
+			(xy 43.18 35.56) (xy 67.31 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c883ab66-5e7d-42e7-bad3-ad41300e97f8")
+	)
+	(wire
+		(pts
+			(xy 78.74 55.88) (xy 85.09 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd0cfdfa-3ba5-4a71-8153-0fb7e3d03676")
+	)
+	(wire
+		(pts
+			(xy 138.43 175.26) (xy 138.43 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6250b72-b1c9-43d7-bfc2-6e37dbe8b93e")
+	)
+	(wire
+		(pts
+			(xy 63.5 163.83) (xy 63.5 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9a3015f-9eb5-4f05-8c7d-7d23403b5d1f")
+	)
+	(wire
+		(pts
+			(xy 135.89 149.86) (xy 147.32 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd62dae-b79e-4d08-a7b1-482d67decec5")
+	)
+	(wire
+		(pts
+			(xy 138.43 185.42) (xy 138.43 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddde63bf-18c8-4d09-aa30-7a3d962f18ed")
+	)
+	(wire
+		(pts
+			(xy 67.31 124.46) (xy 85.09 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e45ea6f8-aae5-441d-9eb5-7223cd2cb573")
+	)
+	(wire
+		(pts
+			(xy 161.29 180.34) (xy 161.29 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e47679a4-5da9-431d-9c8c-c7595755f0ed")
+	)
+	(wire
+		(pts
+			(xy 63.5 179.07) (xy 63.5 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e99cfa09-3931-46ab-838c-42506e6ed6c2")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 64.77 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe96c7a5-2ee8-4ae8-aa82-aa4d4b95df0d")
+	)
+	(wire
+		(pts
+			(xy 43.18 25.4) (xy 43.18 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff829c6a-d7d4-4440-9ed5-0f8589390b1e")
+	)
+	(wire
+		(pts
+			(xy 43.18 43.18) (xy 43.18 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffd8afa7-6491-4306-abc8-1028bc327f5d")
+	)
+	(wire
+		(pts
+			(xy 67.31 121.92) (xy 67.31 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffe74bb2-975a-4f4a-b1eb-844d1cf6d192")
+	)
+	(hierarchical_label "SPC1"
+		(shape input)
+		(at 135.89 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "036ed5eb-05ac-4557-9e46-3993c383f99b")
+	)
+	(hierarchical_label "SPB1"
+		(shape input)
+		(at 135.89 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ac0ceb7-d97e-4085-923b-78108d68e5b7")
+	)
+	(hierarchical_label "GL_A1"
+		(shape input)
+		(at 135.89 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1135b723-51e3-49fc-a8ba-b1d07402719d")
+	)
+	(hierarchical_label "INLC1"
+		(shape input)
+		(at 85.09 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "15b622d3-d5f4-4214-b3db-13d8caa2512a")
+	)
+	(hierarchical_label "SNC1"
+		(shape input)
+		(at 135.89 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "18176c89-415f-47a9-b0c6-3a6a69392167")
+	)
+	(hierarchical_label "GL_B1"
+		(shape input)
+		(at 135.89 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1a2ce505-7164-4f2c-828d-ad1e18dd84e7")
+	)
+	(hierarchical_label "SNA1"
+		(shape input)
+		(at 135.89 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1cd695a0-f620-4efc-b81a-c778ad843d21")
+	)
+	(hierarchical_label "SOA1"
+		(shape input)
+		(at 85.09 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e38f377-46cf-4a9a-a2b7-94bb57db378b")
+	)
+	(hierarchical_label "GH_B1"
+		(shape input)
+		(at 135.89 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c72f73e-08cb-45b1-b64b-69966039fbf8")
+	)
+	(hierarchical_label "INHB1"
+		(shape input)
+		(at 85.09 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36b8dbb0-115d-4a85-958f-eff5e4cf3b84")
+	)
+	(hierarchical_label "Supply"
+		(shape input)
+		(at 43.18 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c625da1-f204-433c-8a44-099d8c6dcdd9")
+	)
+	(hierarchical_label "INLB1"
+		(shape input)
+		(at 85.09 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "415641e6-46ff-4b3a-b000-674e611ce4bb")
+	)
+	(hierarchical_label "SH_B1"
+		(shape input)
+		(at 135.89 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4da87bcc-a7f2-4bd6-9893-3b0536104519")
+	)
+	(hierarchical_label "SDO1"
+		(shape input)
+		(at 48.26 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "55051a13-9fef-4274-a2e3-ebc8259b1eb0")
+	)
+	(hierarchical_label "SOC1"
+		(shape input)
+		(at 85.09 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b3beb82-e7d5-479b-ae4a-ab5cef16071a")
+	)
+	(hierarchical_label "SH_C1"
+		(shape input)
+		(at 135.89 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5eb9fbe0-76c6-4af3-97be-a98af430340d")
+	)
+	(hierarchical_label "Supply"
+		(shape input)
+		(at 135.89 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "78a4c263-acbb-45c4-b010-f24f9b2c5e57")
+	)
+	(hierarchical_label "SOB1"
+		(shape input)
+		(at 85.09 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "889b58e4-b6c3-4385-a099-600f2601961c")
+	)
+	(hierarchical_label "GH_A1"
+		(shape input)
+		(at 135.89 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c0ffb75-417e-4814-a7dd-03cc9c69cc39")
+	)
+	(hierarchical_label "GL_C1"
+		(shape input)
+		(at 135.89 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e8e4cb1-8052-4cfa-86b3-a2eed72062ff")
+	)
+	(hierarchical_label "INHA1"
+		(shape input)
+		(at 85.09 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a3040567-7e91-43fa-acf7-69c5ae39e48b")
+	)
+	(hierarchical_label "FAULT1"
+		(shape input)
+		(at 62.23 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a55f73fc-7474-48e7-979c-8af0d8fc35e3")
+	)
+	(hierarchical_label "Supply"
+		(shape input)
+		(at 148.59 193.04 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b92228c9-86f0-4dd2-830a-cdb5d1dcd44a")
+	)
+	(hierarchical_label "SPA1"
+		(shape input)
+		(at 135.89 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "beb7543e-d569-4b39-9a50-33e4be8b13ed")
+	)
+	(hierarchical_label "SH_A1"
+		(shape input)
+		(at 135.89 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c1289ec6-9329-40e0-9cc2-a5dcabec0658")
+	)
+	(hierarchical_label "INLA1"
+		(shape input)
+		(at 85.09 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c83388ca-d9a3-44fe-ba83-060bfcd20a62")
+	)
+	(hierarchical_label "SNB1"
+		(shape input)
+		(at 135.89 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d4fd1979-f513-49cc-8fe9-ecbe56b7ad1e")
+	)
+	(hierarchical_label "GH_C1"
+		(shape input)
+		(at 135.89 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e02d4802-c5de-4d81-af6f-9470715d80e2")
+	)
+	(hierarchical_label "INHC1"
+		(shape input)
+		(at 85.09 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc11d48e-6b6d-456b-a00a-8e0464986c86")
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 64.77 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "054e7224-26bb-4dd7-a026-eb3f9b3fef6b")
+		(property "Reference" "#PWR020"
+			(at 64.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 63.5 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 64.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5b44e12-f30b-46d5-838d-3cf7ad0b3dea")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR065")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR020")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR039")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:ERA-6AEB102V")
+		(at 185.42 161.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09200277-572c-421f-9384-6d02790de6a5")
+		(property "Reference" "R16"
+			(at 179.07 166.116 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ERA-6AEB102V"
+			(at 167.894 169.418 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RC0805N_PAN"
+			(at 185.42 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "ERA-6AEB102V"
+			(at 185.42 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df37d90e-1c74-4958-a683-4332e6832593")
+		)
+		(pin "2"
+			(uuid "dfb25071-a54e-4e7d-8791-a86b4bf813c9")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R44")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R16")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R32")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1210X474K1RACAUTO")
+		(at 80.01 179.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ade0a59-d78e-48aa-b7b4-da664c1abfb4")
+		(property "Reference" "C10"
+			(at 83.82 173.9899 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1210X474K1RACAUTO"
+			(at 83.82 176.5299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC370290_115N_KEM"
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1210X474K1RACAUTO"
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40ec081b-9630-489c-94d3-627c1adc714e")
+		)
+		(pin "2"
+			(uuid "45afadb7-7ea6-4e0b-a86b-934bbe063bad")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C49")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C10")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C29")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1206X105K1RACAUTO")
+		(at 67.31 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3255d821-8820-4794-b43f-b0d3497d92be")
+		(property "Reference" "C6"
+			(at 71.12 38.0999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1206X105K1RACAUTO"
+			(at 63.246 34.036 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC370195_180N_KEM"
+			(at 67.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1206X105K1RACAUTO"
+			(at 67.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ad1b65c-85da-4448-85b8-afac7dd876ff")
+		)
+		(pin "2"
+			(uuid "19c91693-8be8-494d-92eb-fb4f1c51045c")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C45")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C6")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C25")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:B82432T1274K000")
+		(at 163.83 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "431f2a73-257f-4617-9b67-8dbf019fc820")
+		(property "Reference" "L1"
+			(at 171.45 134.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "B82432T1274K000"
+			(at 171.45 137.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "IND_EPCOS_B82432T_EPC"
+			(at 163.83 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "B82432T1274K000"
+			(at 163.83 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e97169c2-a119-4de2-940c-5be30ddc1a31")
+		)
+		(pin "1"
+			(uuid "1cdc69fc-4678-4362-831b-8ab51c16b072")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "L4")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "L1")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "L2")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1206C474K1RECAUTO")
+		(at 78.74 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4a77366f-76ed-4201-910c-3a41b85070cc")
+		(property "Reference" "C8"
+			(at 82.55 50.7999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1206C474K1RECAUTO"
+			(at 49.022 52.578 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC340180_180N_KEM"
+			(at 78.74 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1206C474K1RECAUTO"
+			(at 78.74 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43e2582a-809a-41bf-ac67-300677b518da")
+		)
+		(pin "2"
+			(uuid "c9af8f0f-efb2-43cf-a02b-2c249ad49fcb")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C47")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C8")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C27")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 138.43 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c5c92a1-f88d-4c0c-8cb2-ab7f8306e676")
+		(property "Reference" "#PWR08"
+			(at 138.43 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 138.43 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 138.43 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "74a5a55d-a2c2-46a5-8cfd-ab1ee9b55ab9")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR071")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR08")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR045")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 215.9 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "502e48ce-40bb-4c5f-8062-e97011e038bf")
+		(property "Reference" "#PWR015"
+			(at 215.9 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 219.456 170.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 215.9 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "184fbec9-a7b1-4286-bcd8-08cc2b3427ca")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR075")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR015")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR049")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 67.31 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5289a792-6001-444a-8871-b1d77756d48d")
+		(property "Reference" "#PWR019"
+			(at 67.31 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 67.31 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 67.31 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cfc8b57-69c3-496e-b887-8d28628c66af")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR066")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR019")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR040")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.94 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e3904b6-c65d-4ab8-b807-fa182d275bcd")
+		(property "Reference" "#PWR011"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.75 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 154.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34d9ba82-be82-4756-8072-ff6bd9f514db")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR072")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR011")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR046")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 80.01 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61ca6135-c688-4b8a-b3d6-3017cd9b27c7")
+		(property "Reference" "#PWR06"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "479297d6-2bf6-402b-8033-550694868ced")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR070")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR06")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR044")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C0805C103K1RACAUTO")
+		(at 138.43 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7653cd34-dff9-4d02-b1ae-2458bad9d84f")
+		(property "Reference" "C14"
+			(at 142.24 135.89 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "C0805C103K1RACAUTO"
+			(at 142.24 138.43 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "CAPC220145_88N_KEM"
+			(at 138.43 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C0805C103K1RACAUTO"
+			(at 138.43 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "620b8e66-a028-4024-bc3c-47f2ab0a85c3")
+		)
+		(pin "1"
+			(uuid "6a17737f-e7a3-4bf1-85f9-a48e1f1d916d")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C50")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C14")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C30")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.29 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b97a790-d438-433f-868c-1f9bc167327f")
+		(property "Reference" "#PWR012"
+			(at 161.29 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.2901 191.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66643f1a-5c65-4a62-b02f-b50af8fd7f04")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR073")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR012")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR047")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1206X105K1RACAUTO")
+		(at 80.01 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "820d5341-d2c8-472e-b62b-40c5076e82ad")
+		(property "Reference" "C9"
+			(at 83.82 66.0399 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1206X105K1RACAUTO"
+			(at 50.8 68.326 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC370195_180N_KEM"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1206X105K1RACAUTO"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "231bb2fe-769c-4401-8e84-657ed2e3f540")
+		)
+		(pin "2"
+			(uuid "83eb4b09-e0e9-4438-9acb-5e2ce7146f4f")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C48")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C9")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C28")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C0805C104K1RECAUTO")
+		(at 69.85 138.43 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "838870c5-59d1-4eb8-ac60-dae1190cd08f")
+		(property "Reference" "C7"
+			(at 73.66 133.3499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C0805C104K1RECAUTO"
+			(at 40.386 137.414 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC220145_110N_KEM"
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C0805C104K1RECAUTO"
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b156cffc-e3f4-485e-aa28-b10e10ec7360")
+		)
+		(pin "1"
+			(uuid "1874f1d3-58cd-400d-bdd4-43ad500e1e44")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C46")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C7")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C26")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:CRCW08053K01FKEA")
+		(at 185.42 144.78 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95ca7976-a79b-4929-89f6-167dbd8f7a61")
+		(property "Reference" "R15"
+			(at 187.96 149.8599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CRCW08053K01FKEA"
+			(at 168.148 152.4 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RES_CRCW_0805"
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "CRCW08053K01FKEA"
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a9720b29-20e7-4a5a-953f-639178ab348d")
+		)
+		(pin "1"
+			(uuid "f640cc75-48de-40b9-b65a-e7371d988daa")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R43")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R15")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R31")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 43.18 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8dcfa76-2f30-40f9-b68f-2ee8755267eb")
+		(property "Reference" "#PWR02"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 43.18 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d5fb253-d9d0-445b-a733-a22a10daffee")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR064")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR02")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR038")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:RMCF1206FT3R00")
+		(at 215.9 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a98e4c0e-5597-4ae9-9ae9-15f74a143fc2")
+		(property "Reference" "Rout1"
+			(at 218.44 149.8599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RMCF1206FT3R00"
+			(at 218.44 152.3999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "RES_RMCF1206_STP"
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RMCF1206FT3R00"
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "be3e755b-7a4e-49bf-bac0-c94e12b19453")
+		)
+		(pin "1"
+			(uuid "ce974e6b-bf44-4d9e-b7c2-ff0b56602761")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "Rout4")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "Rout1")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "Rout2")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "Rout3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:ERJ-6ENF3243V")
+		(at 148.59 176.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac7ae52f-3750-4302-86fd-33eca0b03209")
+		(property "Reference" "R12"
+			(at 151.13 181.6099 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ERJ-6ENF3243V"
+			(at 141.224 184.658 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "RC0805N_PAN"
+			(at 148.59 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "ERJ-6ENF3243V"
+			(at 148.59 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 148.59 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ea64423-2a44-4808-b724-630e020ec816")
+		)
+		(pin "2"
+			(uuid "f73a403a-efe1-48a4-a440-5b4dfbb903d0")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R41")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R12")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R29")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C0805C104K1RECAUTO")
+		(at 43.18 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad428cc6-c19c-4f80-b1e7-7a5854c3ad51")
+		(property "Reference" "C2"
+			(at 46.99 38.0999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C0805C104K1RECAUTO"
+			(at 34.798 33.782 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC220145_110N_KEM"
+			(at 43.18 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C0805C104K1RECAUTO"
+			(at 43.18 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 43.18 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3c59bd50-230e-4ef7-9e89-3c943f5e9633")
+		)
+		(pin "1"
+			(uuid "a2eb637a-1f89-4439-98f9-b7ccb723b5c6")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C42")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C2")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C22")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 222.25 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af2246d1-434e-43b0-9e38-a2ce56fe346e")
+		(property "Reference" "#PWR017"
+			(at 222.25 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 222.25 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 222.25 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6b663b1-d998-4541-88de-09cd90e6b1c8")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR076")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR017")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR050")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 80.01 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0f79408-c73f-4100-b89b-867c891253ea")
+		(property "Reference" "#PWR05"
+			(at 80.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 74.93 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b78bdd80-2cfb-4d6d-837a-c6014406a23d")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR069")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR05")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR043")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1206X105K1RACAUTO")
+		(at 45.72 168.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b1c16b8a-7fda-4c4a-a0e9-f029cec0b338")
+		(property "Reference" "C3"
+			(at 49.53 163.8299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1206X105K1RACAUTO"
+			(at 31.242 160.02 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC370195_180N_KEM"
+			(at 45.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1206X105K1RACAUTO"
+			(at 45.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2ff0a12f-c2c4-47c1-ace7-8cdd073f715d")
+		)
+		(pin "2"
+			(uuid "6d0d2c6d-19eb-482a-90c5-698213653f2d")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C43")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C3")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C23")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 69.85 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf1f4218-3f61-45ee-a582-277b30410c80")
+		(property "Reference" "#PWR04"
+			(at 69.85 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 69.85 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78a6131a-79b9-48b1-aae9-5a71eedaa721")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR068")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR04")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR042")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:UPS115UE3_TR7")
+		(at 154.94 152.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c044c638-169e-494c-a1f8-081e4fbd5bf8")
+		(property "Reference" "CR1"
+			(at 148.844 147.32 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UPS115UE3/TR7"
+			(at 149.86 149.86 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "POWERMITE1_DO-216AA_MIS_MCH"
+			(at 154.94 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "UPS115UE3/TR7"
+			(at 154.94 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 154.94 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a81f14c-6aa1-4bb0-aebe-93e3c988136e")
+		)
+		(pin "2"
+			(uuid "c09ccd88-50d1-492b-b030-741ce0a584e4")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "CR4")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "CR1")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "CR2")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "CR3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:KRM55WR72A226MH01L")
+		(at 215.9 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d71dedcc-e0b3-47a8-9909-1a2e05ddbe8b")
+		(property "Reference" "C16"
+			(at 219.71 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "KRM55WR72A226MH01L"
+			(at 219.71 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC6153X670N"
+			(at 215.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 215.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4e6775c2-dfa1-415c-a0a1-252b0d4bb9e6")
+		)
+		(pin "1"
+			(uuid "f5fd3a04-a10b-49a8-95aa-a23d4da4cd6a")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C51")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C16")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C31")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:DRV8353RHRGZR")
+		(at 110.49 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db7c89c0-d0a6-4cdd-85b8-f12b4802a634")
+		(property "Reference" "U3"
+			(at 110.49 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "DRV8353RHRGZR"
+			(at 110.49 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "RGZ0048L"
+			(at 110.49 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "DRV8353RHRGZR"
+			(at 110.49 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 110.49 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "20"
+			(uuid "45604339-06de-4301-9447-b2044bcb1de4")
+		)
+		(pin "7"
+			(uuid "ef266c05-deb3-4453-a0ad-daea50091ee9")
+		)
+		(pin "21"
+			(uuid "00595ee0-da32-4c1f-972c-82fa76815bcb")
+		)
+		(pin "31"
+			(uuid "5044a808-430f-4dc9-86de-a844006e52d8")
+		)
+		(pin "10"
+			(uuid "2bcb9a4d-8256-4530-9421-f78e9fca9d9a")
+		)
+		(pin "14"
+			(uuid "420884b4-d19d-4f41-9e36-043e17b5284e")
+		)
+		(pin "22"
+			(uuid "1da791a0-ff27-4e98-be60-2905fae25bf2")
+		)
+		(pin "36"
+			(uuid "e56f71d3-75ad-4002-8cc7-1baa9650a4c9")
+		)
+		(pin "27"
+			(uuid "223eb9ec-3f27-4283-99db-252032b258a1")
+		)
+		(pin "13"
+			(uuid "27309d3c-e67d-486f-b7e3-73163c6ebe85")
+		)
+		(pin "4"
+			(uuid "93f61639-d3b6-4151-90cd-bf61bff4c8a8")
+		)
+		(pin "2"
+			(uuid "b7e3b6be-8fe5-472b-8631-25a72157ada0")
+		)
+		(pin "25"
+			(uuid "b8e09478-55a6-442a-8f39-038454df5423")
+		)
+		(pin "34"
+			(uuid "130da9ab-fd4b-4c92-8d3b-3b731e6dcf37")
+		)
+		(pin "30"
+			(uuid "400e102a-88d1-4696-bf4b-f6523861bfb1")
+		)
+		(pin "12"
+			(uuid "5b208e20-1130-4669-9b06-00c3ee2ad877")
+		)
+		(pin "35"
+			(uuid "fcc29cc8-eeb1-4661-825e-f21eed483c67")
+		)
+		(pin "24"
+			(uuid "96c6fecb-dc04-4622-a5eb-2b2f1e087682")
+		)
+		(pin "40"
+			(uuid "895ce6f6-3c65-4c00-99fa-018ca0cbe492")
+		)
+		(pin "42"
+			(uuid "89ce33a7-b83f-464e-a551-8a6a6479f52a")
+		)
+		(pin "16"
+			(uuid "0a6f6140-71d6-4bb8-8741-5dd986bc2c8d")
+		)
+		(pin "33"
+			(uuid "d38be257-4def-4044-a8cf-b1e4bfcdc278")
+		)
+		(pin "44"
+			(uuid "8cfc0f02-bac5-418f-b228-ab82ab0fdc7e")
+		)
+		(pin "41"
+			(uuid "f4d16c93-4aa1-48a5-a525-c92ba91a354b")
+		)
+		(pin "3"
+			(uuid "e24b502a-723a-4476-92c5-c5899d3024d9")
+		)
+		(pin "45"
+			(uuid "bf756950-355c-4dd8-be65-b34d4b1444f9")
+		)
+		(pin "46"
+			(uuid "78c0ebca-f91c-46f7-8d81-9e2c70551f68")
+		)
+		(pin "38"
+			(uuid "cc5a6296-a71b-40ec-81ae-54e6673e64a1")
+		)
+		(pin "19"
+			(uuid "f3be8692-1af4-4584-87a4-26f40e6ae952")
+		)
+		(pin "37"
+			(uuid "c27e216c-27ed-48ab-9981-c8adab6a41f7")
+		)
+		(pin "47"
+			(uuid "5012e066-ef31-4f35-a7e3-9c7f7f1a35d3")
+		)
+		(pin "1"
+			(uuid "e046344a-67ca-433d-943e-6cca38253e77")
+		)
+		(pin "32"
+			(uuid "072e8c88-6e50-46ae-93ea-2436c07b48a2")
+		)
+		(pin "29"
+			(uuid "fdad9455-5d38-41a2-89aa-6b209bc7ed0c")
+		)
+		(pin "49"
+			(uuid "9b068225-fca6-409e-a778-dc3f662648ee")
+		)
+		(pin "18"
+			(uuid "ca1c60cc-29ad-4127-b6e0-0aa160d4e3fc")
+		)
+		(pin "5"
+			(uuid "f3ed12cb-c934-47ef-a404-7069e46a7c1c")
+		)
+		(pin "11"
+			(uuid "1effe9a8-cc0e-42e6-8e44-5b2198ee8038")
+		)
+		(pin "15"
+			(uuid "daa131c0-8c60-4cb7-a4e4-2de62a2e80f3")
+		)
+		(pin "17"
+			(uuid "03eb5f13-05b0-4f79-a5e8-d9550fdbea42")
+		)
+		(pin "26"
+			(uuid "d6580ca5-9375-410c-ab74-a292eabc4a9e")
+		)
+		(pin "28"
+			(uuid "d8089570-a06b-4940-8f6b-e837a4559f07")
+		)
+		(pin "39"
+			(uuid "88eb6c38-744a-4625-be60-0e78b1ea01ed")
+		)
+		(pin "23"
+			(uuid "31a3a794-ef01-4ffb-a907-b056afc72dd9")
+		)
+		(pin "43"
+			(uuid "3af1402c-87b0-4bc7-8d52-d18f427584c4")
+		)
+		(pin "48"
+			(uuid "eaca3218-7898-4241-83fd-fe44268af590")
+		)
+		(pin "6"
+			(uuid "151708e0-9486-4295-95c4-ae0fabda8198")
+		)
+		(pin "9"
+			(uuid "1eab284c-2897-4de1-b7e8-de0add79a32b")
+		)
+		(pin "8"
+			(uuid "b8ad6bc5-c51c-413a-93a9-762ee6b3d284")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "U8")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "U3")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "U5")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 185.42 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd1d2052-7164-4162-a1cd-ab6bfe4cd75b")
+		(property "Reference" "#PWR014"
+			(at 185.42 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 185.42 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43e1a336-8840-49f6-b5ce-b3ce63f0b584")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR074")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR014")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR048")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:RMCF2512FT332K")
+		(at 161.29 180.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd4902db-da16-494b-a34d-f81a653ca97b")
+		(property "Reference" "R14"
+			(at 163.83 172.7199 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RMCF2512FT332K"
+			(at 163.83 175.2599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "RES_RMCF2512_STP"
+			(at 161.29 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RMCF2512FT332K"
+			(at 161.29 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a81d6bad-2ce5-4a3d-b560-18baeaa16756")
+		)
+		(pin "2"
+			(uuid "97e75c2f-26f5-4140-b1e8-dc415c5e425a")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R42")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R14")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R30")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:RNCF1206TKY10K0")
+		(at 67.31 121.92 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eccf7aeb-0663-40f6-9b3a-73555cc3e9a5")
+		(property "Reference" "R7"
+			(at 60.452 112.776 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RNCF1206TKY10K0"
+			(at 44.45 117.348 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "STA_RNCF1206_STP"
+			(at 67.31 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCF1206TKY10K0"
+			(at 67.31 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 67.31 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5ccc129e-0007-41a0-a142-ea8a98a76c5e")
+		)
+		(pin "1"
+			(uuid "40b6c6b6-7532-409f-a9c0-384313cdff8c")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R40")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R7")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R28")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:C1206X105K1RACAUTO")
+		(at 63.5 171.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef121f30-1f7e-4155-b26c-c9703888dbc8")
+		(property "Reference" "C5"
+			(at 67.31 166.3699 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C1206X105K1RACAUTO"
+			(at 51.308 174.244 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC370195_180N_KEM"
+			(at 63.5 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C1206X105K1RACAUTO"
+			(at 63.5 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8955efd2-90a2-434d-bc12-ffc1b54f9c19")
+		)
+		(pin "2"
+			(uuid "c207a107-b3a3-4dc3-80c9-d3f690766109")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "C44")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "C5")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "C24")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Syms:RMCF1206JT1K00")
+		(at 64.77 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f69d15f8-c008-4921-80ef-201f720939fa")
+		(property "Reference" "R6"
+			(at 58.674 91.186 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RMCF1206JT1K00"
+			(at 41.91 94.234 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "STA_RMCF1206_STP"
+			(at 64.77 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RMCF1206JT1K00"
+			(at 64.77 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f9414ec-6c83-4744-a9f3-66236ff318c2")
+		)
+		(pin "2"
+			(uuid "37dd5afe-5396-42f5-90cf-7d8c8994c130")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "R39")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "R6")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "R27")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 69.85 129.54 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f964268d-0529-4e27-84f4-fbc9f16fffe7")
+		(property "Reference" "#PWR018"
+			(at 73.66 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 66.04 129.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 69.85 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35cd1a25-7181-447a-8a64-6a86bfb975e2")
+		)
+		(instances
+			(project "ATV Motor Driver v1"
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/56878214-516b-4ff5-8e6c-53dc6effe84a"
+					(reference "#PWR067")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/c8897aee-5ab3-4a3c-9b1d-1a38efc92575"
+					(reference "#PWR018")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/ea8ddf6c-d2a7-4b06-b22a-8c1e0357041e"
+					(reference "#PWR041")
+					(unit 1)
+				)
+				(path "/c5e750c3-7b06-469b-9efb-967b28a1b3b6/f992c37f-7a74-4150-8da2-0d5ec1266c0f"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
